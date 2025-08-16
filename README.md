@@ -1,7 +1,8 @@
 <!-- عنوان متحرك -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20I'm%20Mohamed%20Qandill&width=800&height=120" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&repeat=false&lines=Hi+I'm+Mohamed+Qandill" />
 </p>
+
 
 
 
