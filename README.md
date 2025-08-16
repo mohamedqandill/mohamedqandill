@@ -1,6 +1,6 @@
 <!-- عنوان متحرك -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&repeat=false&lines=Hi+I'm+Mohamed+Qandill" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=34&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&repeat=false&lines=Hi+I'm+Mohamed+Qandill" />
 </p>
 
 
