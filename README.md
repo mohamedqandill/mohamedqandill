@@ -1,7 +1,8 @@
 <!-- عنوان متحرك -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=42a5f5&height=120&section=header&text=Hi%20I'm%20Mohamed%20Qandill&fontSize=35&fontColor=ffffff" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20I'm%20Mohamed%20Qandill&width=800&height=120" />
 </p>
+
 
 
 
