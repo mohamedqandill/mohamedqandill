@@ -1,4 +1,6 @@
-# Welcome to Mohamed Qandill's Profile! 👋
+<!-- عنوان متحرك -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&size=28&duration=2800&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Hi+there+👋;+I'm+Mohamed+Qandill;Flutter+Developer;Love+Learning+and+Problem+Solving+💡)](https://git.io/typing-svg)
+
 
 ### 💙 Passionate about Flutter  
 
